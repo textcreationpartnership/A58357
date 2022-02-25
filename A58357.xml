@@ -1,0 +1,238 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reflexions on Monsieur Fagel's letter</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58357</idno>
+            <idno type="STC">Wing R700</idno>
+            <idno type="STC">Wing R701_INCORRECT</idno>
+            <idno type="STC">ESTC R35362</idno>
+            <idno type="EEBO-CITATION">15264902</idno>
+            <idno type="OCLC">ocm 15264902</idno>
+            <idno type="VID">56807</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58357)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 56807)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 875:49 or 1192:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reflexions on Monsieur Fagel's letter</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1688]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>An answer to Fagel, the Dutch State Minister's criticism of British penal law and treatment of dissenters.</note>
+                  <note>Item at reel 875:49 incorrectly identified as Wing R701.</note>
+                  <note>Imperfect: folded, with loss of print.</note>
+                  <note>Reproductions of originals in the Henry E. Huntington Library and Art Gallery and Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fagel, Gaspar, 1634-1688. --  Letter writ by Mijn Heer Fagel, pensioner of Holland, to Mr. James Stewart, advocate.</term>
+               <term>Test Act (1673)</term>
+               <term>Dissenters, Religious --  England.</term>
+               <term>Great Britain --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="response">
+            <pb n="1" facs="tcp:56807:1" rendition="simple:additions"/>
+            <head>REFLEXIONS ON MONSIEUR FAGEL'S LETTER.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Shall endeavour to anſwer yours as fully and briefly as poſſible.</p>
+            <list>
+               <item>1. You deſire to know whether the Letter I ſent you be truly Monſieur <hi>Fagel</hi>'s or not.</item>
+               <item>2. Whether their Highneſſes gave him Commiſſion to write it.</item>
+               <item>3. How far the Diſſenters may rely on their Highneſſes word.</item>
+               <item>4. What effects it has on all ſorts of People.</item>
+            </list>
+            <p>
+               <hi>Sir,</hi> Roman Catholicks may be pardoned if they en<g ref="char:EOLhyphen"/>deavour to make that Letter paſs for an Impoſture, it is their Intereſt ſo to do, and they are ſeldom wanting to promote that, let the methods be never ſo indirect which they are forced to make uſe of: It does indeed ſpoil many hopeful projects of theirs. But how any Proteſtant among us can really doubt the truth of it, is ſtrange to me. Some things carry their own evidence along with them, I take this Letter to be one of that kind. I do not deſire you to believe me upon my bare affirmation that I know it to be genuine, (tho this be moſt true) but ſhall offer my Reaſons to convince you that it cannot be otherways.</p>
+            <p>Firſt, The Letter is like its Author, the Matter is weigh<g ref="char:EOLhyphen"/>ty, the Reaſoning ſold, the Stile grave, full and clear, like that of a Lawyer: It has an Air all over, which as well ſhews the Religion and Temper of its Writer as the Mat<g ref="char:EOLhyphen"/>ter and Method of it do his Capacity and Judgment. Now all theſe Qualities make up the Character of <hi>Monſieur Fagel.</hi>
+            </p>
+            <p>Secondly, There are the ſame grounds to believe this Letter to be M. <hi>Fagel</hi>'s, as there are to believe any thing you have not ſeen, <hi>viz</hi> The conſtant Aſſeverations of Per<g ref="char:EOLhyphen"/>ſons of undoubted Credit that come from <hi>Holland,</hi> who all agree in <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and aſſure us of it. M. <hi>Fagel</hi> own'd it to ſeve<g ref="char:EOLhyphen"/>ral Engliſh Gentlemen, and many both here and in <hi>Holland</hi> knew two months ago that ſuch a Letter was written; a Forgery would before this time have been detected, eſpeci<g ref="char:EOLhyphen"/>ally ſuch a one as ruines the Deſigns of the Triumphing Party.</p>
+            <p>Thirdly, It was written by M. <hi>Fagel</hi> in Anſwer to Let<g ref="char:EOLhyphen"/>ters from Mr. <hi>Stewart,</hi> ſent by his Majeſties ſpecial Orders, and Mr <hi>Stewart</hi> had both an Engliſh and Latin Copy ſent him: Therefore the Engliſh Copy is not called a Tranſla<g ref="char:EOLhyphen"/>tion, but it is a ſort of Original: for you are not to doubt but the matter was ordered ſo, that her Royal Highneſs might peruſe it as well as his Majeſty.</p>
+            <p>In the next place you would know <hi>whether their Higreſſes gave Order to Monſieur</hi> Fagel <hi>to write it.</hi>
+            </p>
+            <p>I wiſh Sir, you would take the pains to read the Letter over again, and conſider who this <hi>Monſieur Fagel</hi> is; He is Penſionary of <hi>Holland,</hi> and firſt Miniſter of State, raiſed to that Dignity by the <hi>Prince</hi>'s Favour, he Anſwers Letters written to him, which are ordered by His Majeſty to be Communicated to their Highneſſes. In his Anſwer, he gives an Account of their Higneſſes Opinions about the Repeal of the <hi>Penal Laws</hi> and <hi>Teſt;</hi> Matters of a National Concern, and of the greateſt Importance. Now you muſt have a ſtra<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ge Opinion of <hi>Monſieur Fagel,</hi> if you think him capable of ſo great an Indiſcretion (or rather Impoſture) as to write ſuch a Letter of his own Head. The Letter it ſelf Demon<g ref="char:EOLhyphen"/>ſtrates, that whoever writ it is no Fool, and the Circum<g ref="char:EOLhyphen"/>ſtances I have marked ſhow that he is no Knave. And in<g ref="char:EOLhyphen"/>deed the Subſtance of it is not new, it only repeats to His Majeſty the ſame Anſwer which the Prince and Princeſs had formerly given to His Majeſties Envoy there.</p>
+            <p>In ſhort, you may leave the whole Matter to this plain iſſue: if this Letter be a falſe one, it will be diſown'd. if a true one it will be owned. Their Highneſſes love not to do things that will not bear the Light It is Evident, they did not intend the Matter of it ſhould be a Secret, having told it to <hi>Monſieur D' Albeville,</hi> as often as he (in his Diſcreet Way) neceſſitated them to do it. But how it came to be <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rinted, I can<g ref="char:EOLhyphen"/>not inform you juſtly; however you ſhall have my conjecture.</p>
+            <p>I remember, as ſoon as it was noiſed about Town, that Mr. <hi>Stewart</hi> had received a Letter of ſuch a Nature from <hi>Monſieur Fagel,</hi> Care was taken, that the Writer of the Com<g ref="char:EOLhyphen"/>mon News Letters which are diſperſed over the Kingdom, ſhould inſert in them, that their Highneſſes had declared themſelves for the Repeal of the Teſt. This <hi>Pia Fraus</hi> might, I ſuppoſe, give Occaſion to the Printing of the Letter, as the Wiſdom and Policy of our States-men (in putting Mr. <hi>Stewart</hi> on Writing ſuch Letters) had procured it: I ſay <hi>Letters,</hi> for <hi>Monſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ier Fagel</hi> had five or ſix on that ſubject be<g ref="char:EOLhyphen"/>fore he anſwered, ſo unwilling were they in <hi>Holland</hi> to re<g ref="char:EOLhyphen"/>turn an Anſwer, ſince they could <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot give one that was pleaſing, or to do any thing that look'd like meddling.</p>
+            <p>The third Thing you deſired to be ſatisfied in, is, <hi>W<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ther the Diſſenters may rely on their Highneſſes Word.</hi> I am as apt to miſtruſt Princes Promiſes as you are. But ſhall now give you my reaſons, why I think the Diſſenters may ſafely do it. And at the ſame time, becauſe of the Affinity of the matter, I will tell you why I think we may all rely on their Highneſſes for our <hi>Civil <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iberties,</hi> as well as the Diſſenters may do for <hi>Liber<gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> of Conſcience.</hi> Much of what I have to ſay is equally applicable to them both, yet becauſe I know you have had an Account of Her Royal Highneſs, better than I can give you, I ſhall for the moſt part, ſpeak only of the Prince.</p>
+            <p>My firſt Reaſon is the certaineſt of all Reaſons, That it will be His Highneſſes intereſt to ſettle matters at Home, which only can be done by a Legal Toleration or Compre<g ref="char:EOLhyphen"/>henſion in Matters of Religion; and by reſtoring the Civil Liberties of the Nation, ſo much invaded of late. That this will be his intereſt is Evident, if his Deſigns lye abroad, as it's certain they do. Deſigns at home and abroad at the ſame time are ſo inconſiſtent, that we ſee His Majeſty,
+<pb n="2" facs="tcp:56807:2"/>though raiſed above his Fears at home by His late Victory; and invited abroad, by all that can excite his Appetite for Glory, cannot reconcile them: The truth is, one that would undertake it, is in the ſame Condition with Officers that beat their men, to make them fight, they have Ene<g ref="char:EOLhyphen"/>mies before and behind.</p>
+            <p>But you may happily Object, that Princes do not always follow their true Intereſts, of which it is not difficult in this Age to give ſeveral Fatal Inſtances. I Anſwer, That it is to be preſumed that Princes, as well as other men, will follow their Intereſts till the contrary appear; and if they be of an Age to have taken their Fold, and have till ſuch an Age kept firm to their Intereſts, the Preſumption grows ſtrong; but if their Inclinations, the Maxims of their Fa<g ref="char:EOLhyphen"/>milies, the Impreſſions of their Education, and all their other Circumſtances do ſide with their Intereſt, and lead them the ſame way, it is hardly Credible they ſhould ever quit it. Now this being the preſent Caſe, we have all the certainty that can be had in ſuch matters.</p>
+            <p>The Prince of <hi>Orange</hi> has above theſe 15 years given ſo great proofs of his Firmneſs and Reſolution, as well as of his Capacity and Conduct in oppoſing the Grand Ra<g ref="char:EOLhyphen"/>viſher (I may add the Betrayers too) of Liberty and Re<g ref="char:EOLhyphen"/>ligion, that he is deſervedly (by all Impartial Men) own'd to be the Head of the Proteſtant Intereſt: A Headſhip, which no Princes but the Kings of <hi>England</hi> ſhould have, and none but they would be without it.</p>
+            <p>Now one may rationally conclude, That when the Prince ſhall joyn to his preſent poſſeſſion of this Headſhip, a more Natural Title, by being in a greater capacity to Act, he will not degrade himſelf, nor lay aſide Deſigns and Intereſts which ought to be the Glory of <hi>England,</hi> as they are indeed the Glory of his Family, acquired and derived to him by the Blood of his Anceſtors, and carried on and maintained by himſelf with ſo much Honour and Reputation.</p>
+            <p>I might add here, That the Prince is a Man of a ſedate even T<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mper, full of Thoughts and Reflection: one that precipitates neither in Thinking, Speaking, nor Acting; is cautious in Reſolving and Promiſing, but firm to his Re<g ref="char:EOLhyphen"/>ſolutions, and exact in obſerving his Word: Inform your ſelf, and you'll find this a part of his Character, and conclude from hence what may be preſumed from his Inclinations.</p>
+            <p>Now as to the Maxims of his Family, let us compare them a little where it may be decently done.</p>
+            <p>The <hi>French</hi> King broke his Faith to his Proteſtant Sub<g ref="char:EOLhyphen"/>jects, upon this ſingle point of Vain Glory, that he might ſhew the World he was greater than moſt of his Predeceſſors, who though they had the ſame Inclinations, were not Po<g ref="char:EOLhyphen"/>tent enough to purſue them effectually, as he has done, to the everlaſting Infamy of his Name and Reign. The max<g ref="char:EOLhyphen"/>ims of the <hi>French</hi> Kings have been how to outvie each other, in Robbing their Neighbours, and Oppreſſing their Sub<g ref="char:EOLhyphen"/>jects by perfidiouſneſs and cruelty. But thoſe of the Fami<g ref="char:EOLhyphen"/>ly of <hi>Orange,</hi> on the contrary, have been to Reſcue <hi>Eu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ope</hi> from its Oppreſſors, and maintain the Proteſtant Intereſt, by Vertue, Truth, Honour and Reſolution; knowing that ſuch methods are as neceſſary to make Proteſtant Prin<g ref="char:EOLhyphen"/>ces and States flouriſh, as Vice and Oppreſſion are to main<g ref="char:EOLhyphen"/>tain Popiſh Government.</p>
+            <p>No Popiſh Prince in <hi>Europe</hi> can pretend to have kept his Word to his Proteſtant Subjects, as the Princes of <hi>Orange</hi> have always done to their Popiſh Subjects at <hi>Orange,</hi> and elſewhere; and the Papiſts have often broke their Word to that Family, and have been and are its declared Enemies; and though the Princes two great Grand-Fathers, Admiral <hi>Coligni,</hi> and Prince <hi>William,</hi> were Aſſaſſinated by the Au<g ref="char:EOLhyphen"/>thority, and with the Approbation of that whole party, yet it cannot be made appear, that ever the Princes of that Fa<g ref="char:EOLhyphen"/>mily failed in keeping their Word, even to ſuch Enemies, or uſed their own Popiſh Subjects the worſe for it, in making diſtinction between them and their other Subjects, or influ<g ref="char:EOLhyphen"/>enc'd the States to uſe theirs ſo: I ſay the States, who allow their <hi>R. C.</hi> Subjects all the priviledges of their other Sub<g ref="char:EOLhyphen"/>jects, only they are kept by a Teſt from having any ſhare in the Government, which is truly a kindneſs done them, conſidering that ill-natur'd Humour of deſtroying all thoſe that differ from them, which is apt to break out when that Religion is in power.</p>
+            <p>Now the Church of <hi>England</hi> may juſtly expect all ſort of protection and countenance from the Succeſſors, when it's their turn to give it, they have a legal right to it, and Impartial Diſſenters muſt acknowledge, that of late they have deſerved it.</p>
+            <p>But as for the Proteſtant Diſſenters, I think no honeſt man amongſt them will Apprehend, that their Highneſſes who keep their Word to their popiſh Enemies, will break it to Proteſtant Subjects, tho differing from the publick Eſtabliſhment.</p>
+            <p>The next thing I am to make good, is, That his High<g ref="char:EOLhyphen"/>neſſes Education muſt have infuſed ſuch principles as ſide with his Intereſt: There muſt be a Fatal Infection in the <hi>Engliſh</hi> Crown, if matters miſcarry in his Highneſſes Hands, his Veins are full of the beſt Proteſtant Blood in the World. The Reformation in <hi>France</hi> grew up under the Conduct and Influence of <hi>Coligni.</hi> Prince <hi>William</hi> founded the Govern<g ref="char:EOLhyphen"/>ment of the Unitnd <hi>Netherlands</hi> on the Baſis of property and liberty of Conſcience. His Highneſs was bred and lives in that State which ſubſiſts and flouriſhes by adhering ſtea<g ref="char:EOLhyphen"/>dily to the maxims of its Founder.</p>
+            <p>He himſelf, both in his publick and private concerns, as well in the Government of his Family, and of ſuch principa<g ref="char:EOLhyphen"/>lities as belong to him, as in that of the Army, and in the Diſpenſing of that great power which the States have given him, has as great regard to Juſtice, Vertue and true Religi<g ref="char:EOLhyphen"/>on, as may compleat the character of a Prince, qualified to make thoſe he Governs happy.</p>
+            <p>It does not indeed appear, that their Highneſſes have any ſhare of that devouring Zeal which hath ſo long ſet the World on fire, and tempted thinking men to have a notion of Religion it ſelf, like that we have of the Ancient Para<g ref="char:EOLhyphen"/>dice, as if it had never been more than an intended Bleſſing, but all who have the honour to know their Highneſſes and their Inclinations in matters of Religion, are fully ſatisfied they have a truly Chriſtian Zeal, and as much as is con<g ref="char:EOLhyphen"/>ſiſtent with Knowledge and Charity.</p>
+            <p>As to his Highneſſes circumſtances, they will be ſuch when his Stars make way for him, as may convince our Scepticks, that certain perſons, times and things, are pre<g ref="char:EOLhyphen"/>pared for one another. I know not why we may not hope, that as his predeceſſors broke the Yoke of the Houſe of <hi>Auſtria</hi> from off the Neck of <hi>Europe;</hi> The honour of break<g ref="char:EOLhyphen"/>ing that of the Houſe of <hi>Bourbon</hi> is reſerved for him. I am confident the Nation will heartily joyn with him in his Juſt Reſentments. Reſentments which they have with ſo much
+<pb n="3" facs="tcp:56807:2"/>Impatience long'd to find, and have miſſed with the greateſt indignation in the Hearts of their Monarchs.</p>
+            <p>His Highneſs has at preſent, a greater influence on the Councils of the moſt part of the Princes of <hi>Chriſtendom,</hi> than poſſibly any King of <hi>England</hi> ever had. And this acquired by the weight of his own perſonal merit, which will no doubt grow up to a glorious Authority when it is cloath'd with Soveraign power. May I here mention (to lay the Jealouſies of the moſt unreaſonable of your Friends) that his Highneſs will have only a borrowed Title, which we may ſuppoſe will make him more cautious in having deſigns at home, and his wanting Children (to our great misfortune) will make him leſs ſolicitous to have ſuch Deſigns.</p>
+            <p>But after all, it muſt be acknowledged, that in matters of his Nature, the premiſes may ſeem very ſtrong, and yet the concluſion not follow. Humane infirmities are great, Temptations to Arbitrarineſs are ſtrong, and often both the Spirit and Fleſh weak. Such fatal miſtakes have been made of late, that the Succeſſors themſelves may juſtly pardon mens Jealouſies. A Widow that has had a bad Husband, will cry on her Wedding day, though ſhe would be married with all her heart. But I am confident you will grant to me, that in the caſe of the preſent Succeſſors, the poſſibili<g ref="char:EOLhyphen"/>ties are as remote, and the Jealouſies as ill grounded, and that there is as much to ballance them, as ever there was to be found in the proſpect of any Succeſſors to the Crown of <hi>England,</hi> Now may I add, To conclude the Reaſons that I have given you, why we may depend on their Highneſſes, that I know conſiderable men, who af<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er great Enquiry and Obſervation, do hope that their Highneſſes (being every way ſo well qualified for ſuch an end) are predeſtinated (if I may ſpeak ſo) to make us happy in putting an end to our Differences, and in fixing the Prerogative, and in recover<g ref="char:EOLhyphen"/>ing the Glory of the Nation, which is ſo much ſunk, and which now (when we were big with Expectations) we find Sacrific'd to unhappy partialities in matters of Religion.</p>
+            <p>The laſt thing you deſire to know, is, <hi>What Effects this Letter has had.</hi> But it is not yet old enough for me to judge of that, I can better tell you what Effects it ought to have. I find the moderate wiſe men of all Perſwaſions are much pleaſed with it.</p>
+            <p>I know <hi>Roman Catholicks</hi> that wiſh to God matters were ſetled on the model given in it; they ſee the great difficulty of getting the <hi>Teſt</hi> Repealed: And withal, they doubt whether it is their Intereſt that it ſhould be Repealed or not: They fear needy violent men might get into Employ<g ref="char:EOLhyphen"/>ments who would put His Majeſty on doing things that might ruine them and their Poſterity. They are certainly in the right of it. It is good to provide for the worſt. A Revolution will come with a Witneſs; and its like it may come before the Prince of <hi>Wales</hi> be of Age to manage an unruly Spirit, that I fear will accompany it. Humane Nature can hardly digeſt what it is already neceſſitated to ſwallow, ſuch provocations even alters mens Judgmen<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s. I find that men who otherways hate ſeverity, begin to be of Opinion that Queen <hi>Elizabeths Lenity</hi> to the <hi>R. C's</hi> proves now cruelty to the Proteſtants. The whole Body of Pro<g ref="char:EOLhyphen"/>teſtunts in the Nation, was lately afraid of a <hi>Pipiſh Succeſſor,</hi> and when they Reflected on Queen <hi>Maries</hi> Reign, thought we had already ſufficient Experience of the Spirit of that Religion; and took Self-preſervation to be a good Argu<g ref="char:EOLhyphen"/>ment, for preventing a ſecond Tryal. But now a handful of <hi>Roman Catholicks,</hi> perhaps reflecting on Queen <hi>Elizabeths</hi> Reign, are not it ſeems afraid of <hi>Proteſtant Succeſſors.</hi> But if ſome Proteſtants at that time from an Averſion to the Re<g ref="char:EOLhyphen"/>medy, hop'd that the Diſeaſe was not ſo dangerous as it proves. I am confident at preſent, all Proteſtants are agreed, that henceforward the Nation muſt be ſaved, not by Faith. And therefore I would adviſe the <hi>R. C</hi>'s to conſider that Pro<g ref="char:EOLhyphen"/>teſtants are ſtill men, that late Experiences at home, and the Cruelties of <hi>Popiſh</hi> Princes abroad, has given us a very terrible <hi>Idea</hi> of their Religion. That Opportunity is pre<g ref="char:EOLhyphen"/>cious and very ſlippery, and if they let the preſent Occaſion paſs by, they can hardly ever hope that it will be poſſible for them to recover it. That their Fathers and Grand<g ref="char:EOLhyphen"/>fathers would have thought themſelves in Heaven to have had ſuch an offer as this is, in any of the four laſt Reigns, and therefore, that they had better be contented with <hi>Half a Lorf, than no Bread.</hi> I mean it will be their Wiſdom to em<g ref="char:EOLhyphen"/>brace this Golden Occaſion of putting themſelves on a level with all other <hi>Engliſh</hi>-men; at leaſt as to their private Ca<g ref="char:EOLhyphen"/>pacity; and to diſarm once for all, the Severity of thoſe Laws; which if ever they ſhould come to be in good earn<g ref="char:EOLhyphen"/>eſt Executed by a Proteſtant Succeſſor, will make <hi>England</hi> too hot for them: And therefore I ſhould particularly adviſe thoſe among them, who have the Honou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to approach His Majeſty, to uſe their Credit, to prevail with him to make this ſo neceſſary a ſtep in favour of the Nation; ſince the Succeſſors have advanc'd two Thirds of the way for effecting ſo good and pious a Work. Then, and not till then, the <hi>R. C</hi>'s may think themſelves ſecured, and His Majeſty may hope to be great by Tranſlating Fear and Anger from the Breaſts of His Subjects, to the Hearts of His Own and the Nations Enemies.</p>
+            <p>But if an Evil Genius (which ſeem<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to have hovered over us now a long time) will have it othe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wiſe; it I were a <hi>R. C.</hi> I would meddle no more, but live q<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iet at home, and Careſs my Proteſtant Neighbours; and in ſo doing, I ſhould think my ſelf better ſecured againſt the Reſentments of the Nation, than by all the Forces, Forts, Leagues, Garran<g ref="char:EOLhyphen"/>ties, and even <hi>Men Children,</hi> that His Majeſty may hope to leave behind him.</p>
+            <p>As for the Proteſtant Diſſenters, I am confident the Bo<g ref="char:EOLhyphen"/>dy of them will continue to behave themſelves like men, who to their great Honour have ever preferred the Love of their Country and Religion to all Dangers and Favours whatſo<g ref="char:EOLhyphen"/>ever, but there are both Weak and Intereſted men among all great numbers; I would have them conſider how much the ſtate of things is altered, upon the coming out of this Letter, for if hitherto they have been too forward in giving Ear to Propoſals on this miſtake, that they could never have ſuch a favourable Juncture, for getting the Laws againſt them Repealed; I hope now they are undeceived, ſince the Succeſſors have pawn'd their Faith and Honour for it, which I take to be a better ſecurity (as matters go at preſent) than the ſo much talked of <hi>Magna Charta</hi> for Liberty of Conſcience would be, though got in a legal way; for our Judges have declared, That Princes can diſpence with the Obligation of Laws, but they have not yet given their Opinion, that they can diſpence with the Honour of their Word; nor have their Highneſſes any Confeſſor to ſupply ſuch an Omiſſion.</p>
+            <p>However it is not to be charg'd on their Highneſſes, if ſuch a <hi>Magna Charta</hi> be not at preſent given them, provided the Teſt be let alone; but I fear the <hi>Roman</hi> Catholicks Zeal
+<pb n="4" facs="tcp:56807:3" rendition="simple:additions"/>will have all or nothing; and the Teſt too muſt be Repealed by wheedling the Diſſenters to joyn with willing Sheriffs in violating the Rights of Elections, which are the Root of the Liberties of <hi>England;</hi> a prudent way of recommending their Religion to all true <hi>Engliſh-men.</hi>
+            </p>
+            <p>But if any of the Diſſenters be ſo deſtitute of Senſe and Honeſty, as to prefer a <hi>Magna Charta,</hi> ſo obtained Void and Null in it ſelf, to their own Honour and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>onſcience, to the Love and Liberties of their Countrey, to the preſent Kind<g ref="char:EOLhyphen"/>neſs of all good Men, and their Countenance at another time, and above all, to the Favour and Word of the Succeſ<g ref="char:EOLhyphen"/>ſors, who have now ſo generouſly declared themſelves for them; We may pronounce, that they are men abandoned to a Reprobate ſenſe, who will juſtly deſerve Infamy and the Hatred of the Nation at preſent, and its Reſentments hereaf<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Is it po<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſible, that any D<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſenter, who either deſerves or loves the Reputation of an Honeſt Man, can be prevail<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d with by any pretences of Inſinuations how plauſi<g ref="char:EOLhyphen"/>ble ſoever, to make ſo Odious and pernicious a bargain, as that of ba<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing a precarious pretended Liberty of Conſcience, at the price of the Civil Liberties of their Country, and at the price of removing that which under God is the moſt effectual Bar to keep us from the Dominion of a Religion, that would as ſoon as it could, force us to abandon our own, or reduce us to the Miſerable Condition of thoſe of our Neighbours, who are glad to forſake all they have in the World, that they may have their Souls and Lives for a prey.</p>
+            <p>As for the Church of <hi>England,</hi> their Clergy have of late oppos'd themſelves to <hi>Popery,</hi> with ſo much Learning, Vi<g ref="char:EOLhyphen"/>gour, Danger and Succeſs, that I think all honeſt Diſſen<g ref="char:EOLhyphen"/>ters will lay down their Reſentments againſt them, and look on that Church, as the preſent Bulwark and Honour of the Proteſtant Religion. I wiſh thoſe high men among them, who have ſo long appropriated to themſelves, the name and Authority of the Church of <hi>England,</hi> and have been made Inſtruments to bring about Deſigns, of which their preſent Behaviour convinces me, they were ignorant, as I ſuppoſe many of the Diſſenters are, whoſe turn it is now to be the Tools.</p>
+            <p>I ſay, I wiſh ſuch men would conſider, to what a paſs they have brought Matters by their Violences, or rath<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r the Vio<g ref="char:EOLhyphen"/>lences of theſe whoſe Property they were, and at length be wiſe; They cannot but be ſenſible of the Advantages they receive by this Letter. I ſuppoſe they apprehend (I am ſure they ought to do it) that the Ruine of their Church is re<g ref="char:EOLhyphen"/>ſolv'd on: But if the Diſſenters upon this Letter withdraw themſelves, the <hi>R. C</hi>'s have neit<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er Hearts to keep firm to to ſuch a Reſolution, nor Hands to Execute it.</p>
+            <p>Since therefore, They themſelves, have unhappily brought their Church into ſuch Precepies by provoking the Diſſent<g ref="char:EOLhyphen"/>ers, it is in a particular manner their Duty, as well as their Intereſt, to endeavour to ſoften them, by aſſiſting the Let<g ref="char:EOLhyphen"/>ter, and promoting the Deſign of it.</p>
+            <p>But if the old leaven ſtill remain, and they continue to ar<g ref="char:EOLhyphen"/>gue as formerly, if the Surplice be parted with, the Church of <hi>England</hi> is loſt; if the Penal Laws be repealed, the Teſt will follow: and comfort themſelves with this moſt Chriſti<g ref="char:EOLhyphen"/>an reflection, that the R. C. will not accept of what is of<g ref="char:EOLhyphen"/>fered them; ſuch men deſerve all the miſery that is prepa<g ref="char:EOLhyphen"/>ring for them, and will periſh without Pity, and give think<g ref="char:EOLhyphen"/>ing Men occaſion to remember the Proverb, <hi>Beat a Fool</hi> (or a Zealot) <hi>in a Morter, yet his Fooliſhneſs will not depart from him.</hi> But the Diſſenters ought not to be much concerned at this, they have their own Bigots, and the Church of <hi>England</hi> theirs; there will be Tools whilſt there are Workmen.</p>
+            <p>This is a time for Wiſdom to be juſtifyed of her Children, when honeſt men ought to leave off minding the leſſer In<g ref="char:EOLhyphen"/>tereſts of this or that particular Church, and joyn in ſecu<g ref="char:EOLhyphen"/>ring the common Intereſt of the Proteſtant Religion. And to conclude, I would particularly beg of the Diſſenters to make uſe of their beſt Judgment on this ſo critical an occaſi<g ref="char:EOLhyphen"/>on, which they will do in my opinion, in keeping cloſe to the contents of this Letter, by endeavouring to obtain in a fair and legal way ſuch a Liberty to all Perſwaſions, as is the Natural Right of Freemen, and as our Proteſtant Suc<g ref="char:EOLhyphen"/>ceſſors declare themſelves willing to joyn in; and if thoſe who have an equal, nay a greater Intereſt than themſelves, will not agree to ſuch a Liberty, becauſe they will be Ma<g ref="char:EOLhyphen"/>ſters or nothing; the Diſſenters will have the comfort of having diſcharged their own Conſciences, as prudent Men and good Chiſtians ought to do, and may ſafely truſt God with the Event.</p>
+            <p>Sir, I thought I had made an end, but looking your Letter over again, I find I have forgot to an<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wer a reaſon or two you give, why you doubt whether the Letter be truely M. <hi>Fagels:</hi> You are informed (you ſay) that ſuch and ſuch Great Men doubted of it; but ſome might as well pretend to doubt of the Tru<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h of that Letter, (tho they knew it to be true) as believe Her Majeſty to be with Child, almoſt before ſhe knew it Her ſelf; and that ſhe was quick, when the Embryo, as Anatomiſts ſay, is not much above an Inch long; I don't think that Popiſh Succeſſors, like certain weeds, grow faſter than others. The Perſons you name may Trim, and preſume on their Merit, leaſt they might be thought capable of Reſentment. A dangerous Re<g ref="char:EOLhyphen"/>flection. I ſay their Merit; you have ſeen a long relation of the great ſervices ſome (when they were in power) did their Highneſſes; it is bound up with a relation of the true cauſes of their ſufferings for their (or rather their High<g ref="char:EOLhyphen"/>neſſes) Religion. You know even how one of them the laſt Summer payed them his reverence with all the Reſpect and Humility of a due diſtance, and with the ſame caution with which the Invincible Monarch ſights out of Cannon ſhot. But Sir though the character of a Trimmer be ordinarily the character of a Prudent Man, there are times and ſeaſons when it is not the Character of an Honeſt Man.</p>
+            <p>I acknowledge that ſince their Highneſſes Marriage, no<g ref="char:EOLhyphen"/>thing has hapned ſo much for the good of the Proteſtant In<g ref="char:EOLhyphen"/>tereſt as this Letter of M. <hi>Fagels,</hi> and if I had been either the Writer or Adviſer of it, I ſhould be very proud of it, and think the Nation much in my debt. But Sir that was not a very good reaſon to make you doubt of it; for a good cauſe will have its time, tho not ſo often as a bad one, which hath ordinarily the Majority on its ſide.</p>
+            <p>I am confident at preſent we have all the reaſon in the world to expect it, for my own part, though I am neither young nor ſtrong, I hope to live to ſee a day of Jubilee in <hi>England</hi> for all that deſerve it; when honeſt men ſhall have the ſame pleaſure in thinking on theſe times, that a Woman happily delivered hath in reflecting on the pain and danger ſhe was in. But Knaves ſhall remember them, as I am told the damned to their Sins, Curſing both them and themſelves.</p>
+            <closer>
+               <signed>Sir I am Yours.</signed>
+               <date>
+                  <hi>January</hi> 12. 1688.</date>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
